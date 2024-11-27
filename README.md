@@ -1,8 +1,8 @@
 # DIO-BairesDev-Machine-Learning-Practitioner
 
-- [ ] Introdução ao Machine Learning
-- [ ] Programação para Machine Learning
-- [ ] Algoritmos de Treinamento em Machine Learning
+- [x] Introdução ao Machine Learning
+- [x] Programação para Machine Learning
+- [x] Algoritmos de Treinamento em Machine Learning
 - [ ] Teoria do Aprendizado Estatístico
 - [ ] Fundamentos e Práticas de Deep Learning
 - [ ] Frameworks de Deep Learning
